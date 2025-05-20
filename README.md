@@ -42,10 +42,14 @@ python todolist.py
 
 📂 Project Structure
 todo-calendar-app/
+
 │
-├── todolist.py                  # Main application file
-├── tasks_with_dates.json   # File where tasks are stored (auto-created)
-└── README.md               # This documentation
+
+├── todolist.py
+
+├── tasks_with_dates.json
+
+└── README.md 
 💡 Notes
 All tasks are saved automatically after changes.
 
