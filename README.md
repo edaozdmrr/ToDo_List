@@ -1,10 +1,12 @@
 # ToDo_List
 📌 To-Do List with Calendar
+
 📝 Project Description
 This is a simple and user-friendly To-Do List application with calendar support.
 Users can add tasks with a specific date and custom text color, mark them as completed, and delete them. All tasks are saved locally and persist between sessions.
 
 🚀 Features
+
 📆 Calendar Integration: Assign a due date to each task using a calendar picker.
 
 🎨 Custom Colors: Choose a custom font color for each task.
@@ -27,6 +29,7 @@ json – to store and load task data
 colorchooser – for selecting custom task colors
 
 📥 Installation & Setup
+
 1- Clone this repository or download the ZIP:
 git clone https://github.com/yourusername/todo-calendar-app.git
 cd todo-calendar-app
